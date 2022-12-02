@@ -12,4 +12,7 @@
  To use Git in RStudio start by running [this R script](github.R).
 
 
+Laura is submitting a change to this README file.
+
+
 
