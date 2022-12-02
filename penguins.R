@@ -17,7 +17,7 @@ pen_mass_depth <- ggplot(data = penguins, mapping = aes(x  = body_mass_g,  y = b
 pen_mass_depth <- pen_mass_depth +
   labs(title = "Penguin Bill Depth versus Size",
        subtitle = "Data from the Palmer LTER",
-       x = "Body Mass (kg)",
+       x = "Body Mass (g)",
        y = "Bill Depth (mm)",
        color = "Species of\n Penguin")
 pen_mass_depth
